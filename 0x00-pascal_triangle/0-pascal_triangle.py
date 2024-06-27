@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-Function for Pascal's Triangle
+0. Pascal's Triangle
 """
+
 
 def pascal_triangle(n):
     """
